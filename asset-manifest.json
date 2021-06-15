@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Odin_shopping_cart/static/css/main.ee4f5029.chunk.css",
+    "main.js": "/Odin_shopping_cart/static/js/main.55ffe21f.chunk.js",
+    "main.js.map": "/Odin_shopping_cart/static/js/main.55ffe21f.chunk.js.map",
+    "runtime-main.js": "/Odin_shopping_cart/static/js/runtime-main.fdd7b220.js",
+    "runtime-main.js.map": "/Odin_shopping_cart/static/js/runtime-main.fdd7b220.js.map",
+    "static/js/2.e82e9f64.chunk.js": "/Odin_shopping_cart/static/js/2.e82e9f64.chunk.js",
+    "static/js/2.e82e9f64.chunk.js.map": "/Odin_shopping_cart/static/js/2.e82e9f64.chunk.js.map",
+    "index.html": "/Odin_shopping_cart/index.html",
+    "static/css/main.ee4f5029.chunk.css.map": "/Odin_shopping_cart/static/css/main.ee4f5029.chunk.css.map",
+    "static/js/2.e82e9f64.chunk.js.LICENSE.txt": "/Odin_shopping_cart/static/js/2.e82e9f64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdd7b220.js",
+    "static/js/2.e82e9f64.chunk.js",
+    "static/css/main.ee4f5029.chunk.css",
+    "static/js/main.55ffe21f.chunk.js"
+  ]
+}
